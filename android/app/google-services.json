@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154587859413",
+    "project_id": "medlink-e62ba",
+    "storage_bucket": "medlink-e62ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154587859413:android:c71ed8547b5173db44d55c",
+        "android_client_info": {
+          "package_name": "com.example.medlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvJXr6LI-vhicgZZwMsUfnOaofnGaemNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
